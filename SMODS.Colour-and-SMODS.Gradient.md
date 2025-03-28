@@ -1,3 +1,9 @@
+# API Documentation: `SMODS.Colour`
+This class helps create colours that can be globally referenced and used in localization. Created colours are stored at `G.C['key']`, and can be referenced in localization by the same key.
+- **Required parameters:**
+	- `key`
+    - `colour`: An array of four numerical values between 0 and 1, representing the red, green, blue and opacity values. Beside specifying such a table directly, you can also use a colour present in `G.C` (e.g. `G.C.RED`) or generate a colour from a hex code (e.g. `HEX('ABCDEF')`).
+
 # API Documentation: `SMODS.Gradient`
 This class helps create colours that change over time between two or more specified endpoint colours. A gradient can be used at any point where a colour is expected.
 - **Required parameters:**

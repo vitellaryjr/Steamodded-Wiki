@@ -16,7 +16,7 @@ Game Objects
   * [SMODS.Challenge](https://github.com/Steamodded/smods/wiki/SMODS.Challenge)
   * [SMODS.DeckSkin](https://github.com/Steamodded/smods/wiki/SMODS.DeckSkin)
   * [SMODS.DrawStep](https://github.com/Steamodded/smods/wiki/SMODS.DrawStep)
-  * [SMODS.Gradient](https://github.com/Steamodded/smods/wiki/SMODS.Gradient)
+  * [SMODS.Colour and SMODS.Gradient](https://github.com/Steamodded/smods/wiki/SMODS.Colour-and-SMODS.Gradient)
   * [SMODS.https](https://github.com/Steamodded/smods/wiki/SMODS.https)
   * [SMODS.Keybind](https://github.com/Steamodded/smods/wiki/SMODS.Keybind)
   * [SMODS.Language](https://github.com/Steamodded/smods/wiki/SMODS.Language)
